@@ -1,0 +1,17 @@
+p {
+	width: 80em;
+	font-family: 'Amiri', serif;
+	background-color:#DEFFD5;
+	color:#7F3473;
+	text-align: left;
+	line-height:2em;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	background-color:#FFB0F2;
+	color:#4B7D3C;
+	text-align:center;
+	box-sizing: border-box;
+
+}
